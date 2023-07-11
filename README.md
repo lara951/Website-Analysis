@@ -22,12 +22,12 @@ would help drive student’s conversion rates.
 - Executive report.
 
 ## Data transformation and ETL
--Tools for analysis: Google Analytics, Power BI
+- Tools for analysis: Google Analytics, Power BI
 - Key metrics: visitors, new visitors, returning visitors, pageviews, Avg time on page, bounce
 rate
 - Drill down by various categories; traffic source/medium, region, device, browsers, city.
 - An executive analysis report is presented outlining the methodology, actionable insights and
 recommendations on best channels for optimizing SEO.
 
-Check the link for more info about the [Website Analysis Executive report](https://github.com/lara951/Website-Analysis/blob/main/Website%20Analysis%20Executive%20Report%20(Lateefat).pdf)
+Check the link for more info about the [Website Analysis Executive report](https://github.com/lara951/Website-Analysis/blob/main/Website%20Analysis%20Executive%20Report%20(Lateefat).pdf).
   
