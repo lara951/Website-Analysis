@@ -29,5 +29,5 @@ rate
 - An executive analysis report is presented outlining the methodology, actionable insights and
 recommendations on best channels for optimizing SEO.
 
-Check the link for more info regarding the [Website Analysis Executive report](https://github.com/lara951/Website-Analysis/blob/main/Website%20Analysis%20Executive%20Report%20(Lateefat).pdf).
+Check the full executive report here [Website Analysis Executive report](https://github.com/lara951/Website-Analysis/blob/main/Website%20Analysis%20Executive%20Report%20(Lateefat).pdf).
   
